@@ -34,7 +34,7 @@ This repository contains the official, audited V1 smart contracts for the Aura V
 
 *   **Official Token (Proxy) Address:** [`0xF176FEbAFCcf1e0805E1EfE4276619040003eaeb`](https://gnosisscan.io/address/0xF176FEbAFCcf1e0805E1EfE4276619040003eaeb)
 *   **V1 Implementation Address:** [`0x26Ef460B92666ba7233eb7b69431D4273ac1De43`](https://gnosisscan.io/address/0x26Ef460B92666ba7233eb7b69431D4273ac1De43)
-*   **Primary Liquidity Pool (Balancer):** [`0x71B81B341E6Cc1e5740bB02C20d117D3Bd2D7Bd3`](https://balancer.fi/pools/gnosis/v3/0x71B81B341E6Cc1e5740bB02C20d117D3Bd2D7Bd3)
+*   **Primary Liquidity Pool (Balancer):** [`https://balancer.fi/pools/gnosis/v3/0x39b466E933735b9870Ef1552b096E15107164353)
 
 ### Security & Governance
 
