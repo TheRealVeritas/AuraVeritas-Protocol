@@ -1,4 +1,4 @@
-# Aura Veritas Protocol - Litepaper v0.1
+# Aura Veritas Protocol - Litepaper v0.2
 
 ![Aura Veritas Logo](https://i.ibb.co/gFdTV9Bq/Veritas.png)
 
