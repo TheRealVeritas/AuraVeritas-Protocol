@@ -1,0 +1,27 @@
+# Dependency directories
+# This folder contains all downloaded libraries. It's huge and can be re-installed by anyone using `npm install`.
+node_modules/
+
+# Hardhat specific
+# These folders are created when you compile and test. They are specific to your machine.
+cache/
+artifacts/
+
+# Environment variables
+# CRITICAL: This file contains your private keys. It must NEVER be uploaded to GitHub.
+.env
+
+# Log files
+# These are debug files that are not part of the main project.
+npm-debug.log
+yarn-error.log
+
+# Test reports
+# These are generated when you check code coverage.
+coverage/
+coverage.json
+
+# Operating System generated files
+# These are junk files created by macOS and Windows.
+.DS_Store
+Thumbs.db
